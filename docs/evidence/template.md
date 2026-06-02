@@ -1,4 +1,4 @@
-# GitHub Practice Evidence — [ชื่อ-สกุล]
+# GitHub Practice Evidence — [นาย วีรภัทร ขุนทอง]
 
 ## 1. My GitHub Username
 
@@ -6,12 +6,12 @@
 
 ## 2. My Team / Role
 
-- Team:
-- Role in Sprint:
+- Team:4ll in one
+- Role in Sprint:Hacker
 
 ## 3. What I did in this repo
 
-อธิบายสั้น ๆ ว่าเพิ่มหรือแก้ไขอะไรใน repo นี้
+สร้างไฟล์ evidence ของตนเองใน docs/evidence
 
 ## 4. Evidence Link
 
@@ -21,6 +21,6 @@
 
 ## 5. Reflection
 
-1. วันนี้ฉันเพิ่ม/แก้ไขอะไรใน repo:
-2. ฉันใช้วิธีไหน: GitHub Web / GitHub Desktop / command line / อื่น ๆ
-3. ฉันติดปัญหาอะไร และแก้อย่างไร:
+1. วันนี้ฉันเพิ่ม/แก้ไขอะไรใน repo:เพิ่มข้อมูลของตนเองใน README สร้าง evidence file เพิ่มหลักฐานงานโปรเจคเซนเซอร์วัดระยะหน้าจอคอม สร้าง GitHub Issue
+2. ฉันใช้วิธีไหน: GitHub Web 
+3. ฉันติดปัญหาอะไร และแก้อย่างไร:ตอนแรกยังไม่เข้าใจวิธีเพิ่มไฟล์และ commit บน GitHub
