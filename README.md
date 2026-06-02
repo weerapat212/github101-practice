@@ -21,7 +21,7 @@ Repo นี้ใช้สำหรับสอบปฏิบัติ GitHub 1
 
 | Name | Team | Role | Evidence File | Issue Link |
 |---|---|---|---|---|
-|  WEERAPAT KHUNTONG | 4ll in one | Hacker | https://github.com/weerapat212/github101-practice/blob/main/docs/evidence/67050578-weerapat.md | - |
+|  WEERAPAT KHUNTONG | 4ll in one | Hacker | https://github.com/weerapat212/github101-practice/blob/main/docs/evidence/67050578-weerapat.md | https://github.com/weerapat212/github101-practice/blob/main/docs/issues/practice-issue-template.md |
 
 ---
 
