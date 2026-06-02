@@ -20,4 +20,4 @@
 - ไม่มี 
 
 ### Need help from
-- Scrum Lead / teammate / TA / อาจารย์
+- ไม่มี
